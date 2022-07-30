@@ -10,9 +10,9 @@ This command will be determined by the docker-compose.yml file if different env 
 
 Eg. docker exec -it postgres psql -U user testdb as this takes a database name.
 
-Show tables: \dt
+### Show tables: \dt
 
-Show databases: \l
+### Show databases: \l
 
 CREATE TABLE STUDENT (ID INT PRIMARY KEY NOT NULL, NAME text);
 
