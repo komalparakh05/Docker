@@ -23,4 +23,4 @@ INSERT INTO  STUDENT (id,name) values (2,'Mohammed Shoab');
 SELECT * from STUDENT;
 
 ## Access the server 
-Go to http://localhost:8080/ to view phppgadmin
+Go to http://localhost:8888/ to view phppgadmin
