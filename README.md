@@ -15,7 +15,9 @@ Show tables: \dt
 Show databases: \l
 
 CREATE TABLE STUDENT (ID INT PRIMARY KEY NOT NULL, NAME text);
+
 INSERT INTO  STUDENT (id,name) values (1,'Komal Parakh');
+
 INSERT INTO  STUDENT (id,name) values (1,'Mohammed Shoab');
 
 SELECT * from STUDENT;
